@@ -90,7 +90,7 @@ If you have a favorite GenAI repo that should be included, raise a PR or open an
 ## ⭐ Why Star This?
 
 Starring helps the repo grow and helps others like you discover top-tier AI tools.  
-Let’s build the best GenAI hub together 💥
+Let’s build the best GenAI hub together.... 💥
 
 ---
 
