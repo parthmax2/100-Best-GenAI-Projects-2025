@@ -1,6 +1,6 @@
 # 🔥 100 Best GenAI Projects of 2025 – Curated by Parthmax
 
-> A growing collection of the most innovative and impactful Generative AI, LLM, RAG, and AI Agent-based projects—carefully curated and categorized by **Saksham Pathak**, aka [Parthmax](https://github.com/parthmax).
+> A growing collection of the most innovative and impactful Generative AI, LLM, RAG, and AI Agent-based projects—carefully curated and categorized by **Saksham Pathak**, aka [Parthmax](https://github.com/parthmax2).
 
 ---
 
@@ -90,7 +90,7 @@ All projects are:
 ## 🔧 Built By
 
 👤 **Saksham Pathak**  
-💻 [GitHub: Parthmax](https://github.com/parthmax)  
+💻 [GitHub: Parthmax](https://github.com/parthmax2)  
 📸 [Instagram](https://instagram.com/parthmax) | 💼 [LinkedIn](https://linkedin.com/in/sakshampathak)
 
 > I'm a Fullstack Developer and GenAI builder. This repo is my personal attempt to help the dev community discover, learn, and build faster with state-of-the-art GenAI tools and apps.
