@@ -1,0 +1,2 @@
+# Ignore local scripts containing credentials or private tools
+scripts/
